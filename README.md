@@ -1,7 +1,7 @@
 # **MOOC.fi Java Programming Course**
 
 ### **Description**
-This is University of Helsinki’s free massive open online course (MOOC) on programming. This is an updated version of their popular course 'Object-Oriented Programming with Java'
+I am undertaking (or have already finihed) University of Helsinki’s massive open online course (MOOC) on Java programming. This is an updated version of their popular course 'Object-Oriented Programming with Java'
 
 During this course, I will learn the basics of computer programming, along with algorithms and object-oriented programming through the Java programming language. The course includes comprehensive materials and plenty of programming exercises - all of which are tested using their automatic testing service Test My Code.
 
