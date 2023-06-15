@@ -7,5 +7,8 @@ During this course, I will learn the basics of computer programming, along with 
 
 The course is split up into two individual courses: Java Programming I and Java Programming II. Each course consists of seven parts, each with its own exercise set. Completing a single part takes approximately 5-20 hours, depending on prior skills with computers.
 
+### **Acknowledgements**
+Course was created and is owned by the University of Helsinki.
+
 #### **TODO:**
 * format the files into parts
