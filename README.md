@@ -9,6 +9,3 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 ### **Acknowledgements**
 The course was created and curated by the University of Helsinki.
-
-#### **TODO:**
-* format the files into parts
