@@ -1,47 +1,37 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 
+/**
+ *
+ * @author RM
+ */
 public class Item {
+    private String product;
+    private int qty;
+    private int unitPrice;
 
-    private String name;
-    private int weight;
-
-    public Item(String name, int weight) {
-        this.name = name;
-        this.weight = weight;
-    }
-
-    public Item(String name) {
-        this(name, 0);
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public int getWeight() {
-        return weight;
-    }
-
-    @Override
-    public int hashCode() {
-        return this.name.hashCode();
+    public Item(String product, int qty, int unitPrice) {
+        this.product = product;
+        this.qty = qty;
+        this.unitPrice = unitPrice;
     }
     
-    @Override
-    public boolean equals(Object object) {
-        if (this == object) {
-            return true;
-        }
-        if (!(object instanceof Item)) {
-            return false;
-        }
-
-        Item compared = (Item) object;
-
-        if (this.name.equals(compared.name)) {
-            return true;
-        }
-
-        return false;
+    public int price() {
+        return this.unitPrice * this.qty;
     }
-
+    
+    public int quanitity() {
+        return this.qty;
+    }
+    
+    public void increaseQuantity() {
+        this.qty++;
+    }
+    
+    public String toString() {
+        return this.product + ": " + this.qty;
+    }
 }
