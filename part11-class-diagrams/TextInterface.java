@@ -3,12 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package b;
+package mooc.ui;
 
 /**
  *
  * @author RM
  */
-public class B {
+public class TextInterface implements UserInterface {
+    @Override
+    public void update() {
+        System.out.println("Updating UI");
+    }
     
 }

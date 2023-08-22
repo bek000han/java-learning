@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package b;
+package mooc.ui;
 
 /**
  *
  * @author RM
  */
-public class B {
-    
+public interface UserInterface {
+    public void update();
 }

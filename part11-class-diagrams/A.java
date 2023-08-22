@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package a;
 
 /**
  *
  * @author RM
  */
-public class A implements IA {
+public class A {
     
 }
