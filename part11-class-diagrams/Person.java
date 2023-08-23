@@ -1,29 +1,24 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+package validating;
 
-/**
- *
- * @author RM
- */
-public class Person implements Saveable {
+public class Person {
+
     private String name;
-    private String address;
+    private int age;
 
-    @Override
-    public void save() {
+    public Person(String name, int age) {
+        if ((name == null || name.isEmpty() || name.length() > 40) || (age > 120 || age < 0)) {
+            throw new IllegalArgumentException();
+        } 
         
+        this.name = name;
+        this.age = age;
     }
 
-    @Override
-    public void delete() {
-        
+    public String getName() {
+        return name;
     }
 
-    @Override
-    public void load(String address) {
-        
+    public int getAge() {
+        return age;
     }
 }
