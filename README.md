@@ -6,7 +6,7 @@ I am undertaking (or have already finished) the University of Helsinki’s massi
 
 During this course, I will learn the fundamentals of software development, algorithms, and object-oriented programming through Java. The course includes comprehensive materials and plenty of programming exercises - all of which are tested using their automatic testing service 'Test My Code' through Netbeans.
 
-The course is split up into two individual courses: Java Programming I and Java Programming II. Each course consists of seven parts, each with its own exercise set. Completing a single part takes approximately 5-20 hours, depending on prior skills with computers. 
+The course is split up into two individual courses: Java Programming I and Java Programming II. Each course consists of seven parts, each with its own exercise set. Completing a single part takes approximately 5-20 hours, depending on prior skills with computers.  
 
 ### **Acknowledgements**
 The course was created and curated by the University of Helsinki. 
