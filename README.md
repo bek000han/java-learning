@@ -9,5 +9,5 @@ During this course, I will learn the fundamentals of software development, algor
 The course is split up into two individual courses: Java Programming I and Java Programming II. Each course consists of seven parts, each with its own exercise set. Completing a single part takes approximately 5-20 hours (~220 hours total), depending on prior skills with computers.  
 
 ### **Acknowledgements**
-The course was created and curated by the University of Helsinki. \n
+The course was created and curated by the University of Helsinki.<br>
 All of my completed certificates are verified and can be viewed by using the referral links above.
