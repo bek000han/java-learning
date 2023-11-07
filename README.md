@@ -10,4 +10,4 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 ### **Acknowledgements**
 The course was created and curated by the University of Helsinki.<br>
-All of my completed certificates are verified and can be viewed by using the referral links above.
+All of my completed certificates are verified and can be viewed by using the links above.
