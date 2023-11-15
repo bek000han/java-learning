@@ -1,5 +1,5 @@
 # **MOOC.fi Java Programming Course**
-#### **Certificate 1 achieved!** Link to digital verification of the certificate: https://certificates.mooc.fi/validate/349h9jy91m1
+#### **Certificate 1 achieved!** Link to verification of certificate: https://certificates.mooc.fi/validate/349h9jy91m1
 #### **Certificate 2 in-progress**
 
 ### **Description**
