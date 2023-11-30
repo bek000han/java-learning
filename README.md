@@ -1,6 +1,6 @@
 # **MOOC.fi Java Programming Course**
 #### **Certificate 1 achieved!** Link to verification of certificate: https://certificates.mooc.fi/validate/349h9jy91m1
-#### **Certificate 2 in-progress**
+#### **Certificate 2 in-progress** Link
 
 ### **Description**
 I am undertaking (or have already finished) the University of Helsinki’s massive open online course (MOOC) on Java Programming. This is an updated version of their popular course 'Object-Oriented Programming with Java'.
